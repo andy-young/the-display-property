@@ -1,0 +1,56 @@
+body * {
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+main {
+  padding-top: 80px;
+  font-size: 0;
+}
+
+.container {
+  width: 800px;
+  height: 500px;
+  /* border: 1px solid black; */
+  margin: auto;
+}
+
+.inner {
+  border: 1px solid black;
+  display: inline-block;
+}
+
+.green {
+  background-color: green;
+  width: 50%;
+  height: 200px;
+}
+
+.blue {
+  background-color: blue;
+  width: 50%;
+  height: 200px;
+}
+
+.gray {
+  background-color: gray;
+  height: 300px;
+  width: 33.33%;
+}
+
+.black {
+  background-color: black;
+  height: 300px;
+  width: 33.33%;
+}
+
+.orange {
+  background-color: orange;
+  height: 300px;
+  width: 33.33%;
+}
+
